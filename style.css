@@ -1,0 +1,11 @@
+h1{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    display: flex;
+}
+
+img {
+    width: 250px;
+    border-radius: 15%;
+  }
